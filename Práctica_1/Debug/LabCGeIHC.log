@@ -1,0 +1,7 @@
+﻿  segundo_main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinición de macro
+  (compilando archivo de origen "segundo_main.cpp")
+  C:\Users\ncrla\Desktop\Tareas y trabajos\Computación Gráfica e Interacción Humano Computadora\Laboratorio\Prácticas\Practica_1\LabCGeIHC\LabCGeIHC\include\glfw3.h(98,1):
+  vea la definición anterior de 'APIENTRY'
+  
+  LabCGeIHC.vcxproj -> C:\Users\ncrla\Desktop\Tareas y trabajos\Computación Gráfica e Interacción Humano Computadora\Laboratorio\Prácticas\Practica_1\LabCGeIHC\Debug\LabCGeIHC.exe
